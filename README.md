@@ -8,7 +8,7 @@
 
 - 🌱 Je travaille comme indépendant à TaskRabbit 
 - 👯 Je suis en recherche d'Alternance 
-- ⚡ un peu plus: j'aime monter les meubles
+- ⚡ un peu plus: j'aime La calligraphie
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamed-el-amine-bouanane&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
